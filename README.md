@@ -1,1 +1,3 @@
-# denmaloyreb-prometheus_exporter_for_Nimble_SRT_docs
+# Репозиторий с документацией приложения `Prometheus exporter for Nimble SRT`
+
+Сайт с документацией.
